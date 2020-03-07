@@ -12,18 +12,18 @@
 
 1. Open the Scenes folder and click on the existing Sandbox scene.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01 Creating a New Scene/step 1.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01%20Creating%20a%20New%20Scene/step%201.png)
 
 2. Duplicate the scene by pressing CTRL + D with it selected OR click Edit > Duplicate from the menu.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01 Creating a New Scene/step 2.png)
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01 Creating a New Scene/step 3.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01%20Creating%20a%20New%20Scene/step%202.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01%20Creating%20a%20New%20Scene/step%203.png)
 
 3. Rename your scene and double click it to open it. The new scene name should be visible at the top of the Hierarchy panel.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01 Creating a New Scene/step 4.png)
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01 Creating a New Scene/step 5.png)
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01 Creating a New Scene/step 6.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01%20Creating%20a%20New%20Scene/step%204.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01%20Creating%20a%20New%20Scene/step%205.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/01%20Creating%20a%20New%20Scene/step%206.png)
 
 
 ### Modifying a Bullet Pattern
