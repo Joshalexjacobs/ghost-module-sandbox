@@ -31,15 +31,15 @@
 1. There should already be a template shot controller we can test with inside the scene
 (if not, you can create a copy by going to Assets > Templates > UbhShotCtrlTemplate. Make a duplicate by selecting it and pressing CTRL + D, then drag it into the scene's hierarchy).
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/02 Modifying a Bullet Pattern/step 1.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/02%20Modifying%20a%20Bullet%20Pattern/step%201.png)
 
 If we play the scene as it is, we can see the current bullet pattern.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/02 Modifying a Bullet Pattern/step 2.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/02%20Modifying%20a%20Bullet%20Pattern/step%202.png)
 
 2. To modify the existing pattern attached to the shot controller, click the arrow next to it in the hierarchy view and select the 5WayShot.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/02 Modifying a Bullet Pattern/step 3.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/02%20Modifying%20a%20Bullet%20Pattern/step%203.png)
 
 3. On the right side of the editor, the Inspector panel should display the nWay Shot script attached to this object. 
 
@@ -52,35 +52,35 @@ Modifying any of the following values should change up the pattern:
 - Between Angle
 - Next Line Delay (in seconds)
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/02 Modifying a Bullet Pattern/step 4.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/02%20Modifying%20a%20Bullet%20Pattern/step%204.png)
 
 
 ### Adding More Patterns
 
 1. Copy the existing pattern by selecting it and hitting CTRL + D.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03 Adding More Patterns/step 1.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03%20Adding%20More%20Patterns/step%201.png)
 
 This should create 5WayShot (1)
 
 2. Click the UbhShotCtrlTemplate object in the hierarchy.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03 Adding More Patterns/step 2.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03%20Adding%20More%20Patterns/step%202.png)
 
 Update the Shot List size element to be 2 instead of 1.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03 Adding More Patterns/step 3.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03%20Adding%20More%20Patterns/step%203.png)
 
 Drag the newly duplicated shot (5WayShot (1)) into the new element 1 slot.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03 Adding More Patterns/step 4.png)
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03 Adding More Patterns/step 5.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03%20Adding%20More%20Patterns/step%204.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03%20Adding%20More%20Patterns/step%205.png)
 
 3. Click 5WayShot (1) and edit any values in the inspector.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03 Adding More Patterns/step 6.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03%20Adding%20More%20Patterns/step%206.png)
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03 Adding More Patterns/step 7.png)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/03%20Adding%20More%20Patterns/step%207.png)
 
 Hit Play to test out the new shot combination.
 
@@ -89,12 +89,12 @@ Hit Play to test out the new shot combination.
 
 1. First we want to create an original prefab out of this, so click and drag the entire UbhShotCtrlTemplate into the Assets folder below.
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/04 Exporting and Sharing Patterns/step 1.gif)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/04%20Exporting%20and%20Sharing%20Patterns/step%201.gif)
 
 When the prompt appears, click Original Prefab.
 
 Once that's done, rename the prefab and then right click on it and select Export Package...
 
-# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/04 Exporting and Sharing Patterns/step 2.gif)
+# ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/04%20Exporting%20and%20Sharing%20Patterns/step%202.gif)
 
 Save the unity package and then you're done!
