@@ -95,6 +95,8 @@ When the prompt appears, click Original Prefab.
 
 Once that's done, rename the prefab and then right click on it and select Export Package...
 
+(Make sure you deselect **Include dependencies** during this step or your package will be much bigger than it needs to be!)
+
 # ![GhostModuleSandbox](https://github.com/Joshalexjacobs/ghost-module-sandbox/blob/master/Assets/Other/04%20Exporting%20and%20Sharing%20Patterns/step%202.gif)
 
 Save the unity package and then you're done!
