@@ -87,7 +87,7 @@ Drag the newly duplicated shot (5WayShot (1)) into the new element 1 slot.
 Hit Play to test out the new shot combination.
 
 
-### Ubh Patterns
+### Ubh Example Patterns
 
 More patterns can be found under [Assets > Templates > Library Examples](https://github.com/Joshalexjacobs/ghost-module-sandbox/tree/master/Assets/Templates/Library%20Examples).
 
