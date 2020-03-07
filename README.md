@@ -3,6 +3,8 @@
 
 > A Ghost Module sandbox environment for testing and exporting bullet patterns
 
+**Built with Unity 2019.3.2f1**
+
 ## Getting Started Guide
 
 
