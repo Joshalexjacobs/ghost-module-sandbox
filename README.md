@@ -87,6 +87,13 @@ Drag the newly duplicated shot (5WayShot (1)) into the new element 1 slot.
 Hit Play to test out the new shot combination.
 
 
+### Ubh Patterns
+
+More patterns can be found under [Assets > Templates > Library Examples](https://github.com/Joshalexjacobs/ghost-module-sandbox/tree/master/Assets/Templates/Library%20Examples).
+
+Many of these patterns include a variety of different shots that use scripts outside of nWayShot, but require the exact same set up in order to get working.
+
+
 ### Exporting and Sharing Patterns
 
 1. First we want to create an original prefab out of this, so click and drag the entire UbhShotCtrlTemplate into the Assets folder below.
