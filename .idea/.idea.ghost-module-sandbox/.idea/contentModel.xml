@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Git Repos\ghost-module-sandbox" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Base Project" t="Include">
+          <e p="Input" t="Include">
+            <e p="Player" t="Include">
+              <e p="PlayerInputActions.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Libraries" t="Include">
+            <e p="UniBulletHell" t="Include">
+              <e p="Example" t="Include">
+                <e p="PaintShotData" t="Include">
+                  <e p="paint_shot_data_0001.txt" t="Include" />
+                  <e p="paint_shot_data_0002.txt" t="Include" />
+                </e>
+                <e p="Script" t="Include">
+                  <e p="UbhAutoDespawnParticle.cs" t="Include" />
+                  <e p="UbhAutoScaleGUIText.cs" t="Include" />
+                  <e p="UbhBackground.cs" t="Include" />
+                  <e p="UbhDebugInfo.cs" t="Include" />
+                  <e p="UbhDestroyArea.cs" t="Include" />
+                  <e p="UbhEmitter.cs" t="Include" />
+                  <e p="UbhEnemy.cs" t="Include" />
+                  <e p="UbhExplosion.cs" t="Include" />
+                  <e p="UbhGameManager.cs" t="Include" />
+                  <e p="UbhPlayer.cs" t="Include" />
+                  <e p="UbhPlayerBullet.cs" t="Include" />
+                  <e p="UbhScore.cs" t="Include" />
+                  <e p="UbhSetting.cs" t="Include" />
+                  <e p="UbhShowcaseCtrl.cs" t="Include" />
+                  <e p="UbhSpaceship.cs" t="Include" />
+                  <e p="UbhTitle.cs" t="Include" />
+                </e>
+              </e>
+              <e p="license.txt" t="Include" />
+              <e p="readme.txt" t="Include" />
+              <e p="Script" t="Include">
+                <e p="Attribute" t="Include">
+                  <e p="UbhConditionalHideAttribute.cs" t="Include" />
+                </e>
+                <e p="Bullet" t="Include">
+                  <e p="UbhBullet.cs" t="Include" />
+                  <e p="UbhBulletSimpleModel3d.cs" t="Include" />
+                  <e p="UbhBulletSimpleSprite2d.cs" t="Include" />
+                  <e p="UbhTentacleBullet.cs" t="Include" />
+                </e>
+                <e p="Controller" t="Include">
+                  <e p="UbhShotCtrl.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="UbhBaseShotInspector.cs" t="Include" />
+                  <e p="UbhObjectPoolInspector.cs" t="Include" />
+                  <e p="UbhPaintShotInspector.cs" t="Include" />
+                  <e p="UbhShotCtrlInspector.cs" t="Include" />
+                  <e p="UbhTimerInspector.cs" t="Include" />
+                </e>
+                <e p="ShotPattern" t="Include">
+                  <e p="UbhBaseShot.cs" t="Include" />
+                  <e p="UbhCircleShot.cs" t="Include" />
+                  <e p="UbhHoleCircleLockOnShot.cs" t="Include" />
+                  <e p="UbhHoleCircleShot.cs" t="Include" />
+                  <e p="UbhHomingShot.cs" t="Include" />
+                  <e p="UbhLinearLockOnShot.cs" t="Include" />
+                  <e p="UbhLinearShot.cs" t="Include" />
+                  <e p="UbhNwayLockOnShot.cs" t="Include" />
+                  <e p="UbhNwayShot.cs" t="Include" />
+                  <e p="UbhOverTakeNwayLockOnShot.cs" t="Include" />
+                  <e p="UbhOverTakeNwayShot.cs" t="Include" />
+                  <e p="UbhPaintLockOnShot.cs" t="Include" />
+                  <e p="UbhPaintShot.cs" t="Include" />
+                  <e p="UbhRandomLockOnShot.cs" t="Include" />
+                  <e p="UbhRandomShot.cs" t="Include" />
+                  <e p="UbhRandomSpiralMultiShot.cs" t="Include" />
+                  <e p="UbhRandomSpiralShot.cs" t="Include" />
+                  <e p="UbhSinWaveBulletNwayLockOnShot.cs" t="Include" />
+                  <e p="UbhSinWaveBulletNwayShot.cs" t="Include" />
+                  <e p="UbhSpiralMultiNwayShot.cs" t="Include" />
+                  <e p="UbhSpiralMultiShot.cs" t="Include" />
+                  <e p="UbhSpiralNwayShot.cs" t="Include" />
+                  <e p="UbhSpiralShot.cs" t="Include" />
+                  <e p="UbhSpreadNwayLockOnShot.cs" t="Include" />
+                  <e p="UbhSpreadNwayShot.cs" t="Include" />
+                  <e p="UbhWavingNwayLockOnShot.cs" t="Include" />
+                  <e p="UbhWavingNwayShot.cs" t="Include" />
+                </e>
+                <e p="Singleton" t="Include">
+                  <e p="UbhBulletManager.cs" t="Include" />
+                  <e p="UbhObjectPool.cs" t="Include" />
+                  <e p="UbhShotManager.cs" t="Include" />
+                  <e p="UbhSingletonMonoBehavior.cs" t="Include" />
+                  <e p="UbhTimer.cs" t="Include" />
+                </e>
+                <e p="Utility" t="Include">
+                  <e p="UbhMonoBehaviour.cs" t="Include" />
+                  <e p="UbhTransformExtention.cs" t="Include" />
+                  <e p="UbhUtil.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Behaviours" t="Include">
+              <e p="DisableColliderOnDelay.cs" t="Include" />
+              <e p="FadeOutOnDelay.cs" t="Include" />
+              <e p="FadeOutOnTrigger.cs" t="Include" />
+              <e p="FireLaser.cs" t="Include" />
+              <e p="FireTorpedos.cs" t="Include" />
+              <e p="FireUbhCtrlOnDelay.cs" t="Include" />
+              <e p="FollowAnimationCurve.cs" t="Include" />
+              <e p="OffsetScrolling.cs" t="Include" />
+              <e p="OneOffSprite.cs" t="Include" />
+              <e p="PlaySoundOnAwake.cs" t="Include" />
+              <e p="RandomRotationOnAwake.cs" t="Include" />
+              <e p="RotateConstantly.cs" t="Include" />
+              <e p="ScaleOnAnimationCurve.cs" t="Include" />
+              <e p="SpawnOnDelay.cs" t="Include" />
+            </e>
+            <e p="Boundaries" t="Include">
+              <e p="PlayerBoundaries.cs" t="Include" />
+            </e>
+            <e p="Camera Modules" t="Include">
+              <e p="AudioPool.cs" t="Include" />
+              <e p="ExplosionManager.cs" t="Include" />
+              <e p="ScreenShake.cs" t="Include" />
+              <e p="UIFadeManager.cs" t="Include" />
+            </e>
+            <e p="Components" t="Include">
+              <e p="EnemyWave.cs" t="Include" />
+              <e p="GhostModuleEnergy.cs" t="Include" />
+              <e p="LevelController.cs" t="Include" />
+              <e p="LivesManager.cs" t="Include" />
+            </e>
+            <e p="Enemies" t="Include">
+              <e p="Arrow.cs" t="Include" />
+              <e p="Bosses" t="Include">
+                <e p="Gate" t="Include">
+                  <e p="GateEye.cs" t="Include" />
+                </e>
+                <e p="Glaive" t="Include">
+                  <e p="Glaive.cs" t="Include" />
+                  <e p="PetalRiser.cs" t="Include" />
+                  <e p="PetalSpawner.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Butterfly.cs" t="Include" />
+              <e p="Chandelier" t="Include">
+                <e p="Anticrystal.cs" t="Include" />
+                <e p="Crystal.cs" t="Include" />
+              </e>
+              <e p="Crossbow.cs" t="Include" />
+              <e p="Enemy.cs" t="Include" />
+              <e p="Halberd.cs" t="Include" />
+              <e p="JavelinFighterBig.cs" t="Include" />
+              <e p="JavelinFighterSmall.cs" t="Include" />
+              <e p="LandingCharger.cs" t="Include" />
+              <e p="LiteBike.cs" t="Include" />
+              <e p="Pitchfork.cs" t="Include" />
+              <e p="PowderKeg.cs" t="Include" />
+              <e p="TeardropEye.cs" t="Include" />
+              <e p="TentacleEyes.cs" t="Include" />
+              <e p="Torpedo.cs" t="Include" />
+            </e>
+            <e p="Explosions" t="Include">
+              <e p="BossExplosion.cs" t="Include" />
+            </e>
+            <e p="Extensions" t="Include">
+              <e p="CameraExtensions.cs" t="Include" />
+              <e p="CoroutineService.cs" t="Include" />
+              <e p="RendererExtensions.cs" t="Include" />
+              <e p="WaitForAll.cs" t="Include" />
+            </e>
+            <e p="Level Transition" t="Include">
+              <e p="FadeToBlack.cs" t="Include" />
+              <e p="ParallaxWaveManager.cs" t="Include" />
+            </e>
+            <e p="Persistent Classes" t="Include">
+              <e p="CheckpointManager.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="Player.cs" t="Include" />
+              <e p="PlayerBullet.cs" t="Include" />
+              <e p="PlayerGhostModule.cs" t="Include" />
+            </e>
+            <e p="UI Behaviours" t="Include">
+              <e p="StartMenu.cs" t="Include" />
+            </e>
+            <e p="Utils" t="Include">
+              <e p="PauseUtil.cs" t="Include" />
+              <e p="PlayerControllerUtil.cs" t="Include" />
+              <e p="SceneManagerUtil.cs" t="Include" />
+              <e p="SloMoUtil.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Enemies" t="Include">
+              <e p="FlashWhite.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ghost-module-sandbox.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Josh\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Josh\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ghost-module-sandbox.-1107446744.00" t="ExcludeRecursive" />
+  </component>
+</project>

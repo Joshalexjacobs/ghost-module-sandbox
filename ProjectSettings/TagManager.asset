@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
+  - PlayerBoundaries
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundEnemy
+  - Enemy
+  - Player
+  - PlayerBullet
+  - LaserBoundaries
+  - PlayerBoundaries
+  - EnemyBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Inner Background 2
+    uniqueID: 1546500679
+    locked: 0
+  - name: Inner Background 1
+    uniqueID: 2547217271
+    locked: 0
+  - name: Outer Background
+    uniqueID: 519692135
+    locked: 0
+  - name: Ground
+    uniqueID: 4260212591
+    locked: 0
+  - name: GroundEnemy
+    uniqueID: 2217588609
+    locked: 0
+  - name: PlayerBullet
+    uniqueID: 783299065
+    locked: 0
+  - name: Player
+    uniqueID: 2979796607
+    locked: 0
+  - name: Enemy
+    uniqueID: 1669134931
+    locked: 0
+  - name: Player Bullet Hit
+    uniqueID: 1768907855
+    locked: 0
+  - name: Explosions
+    uniqueID: 525261055
+    locked: 0
+  - name: Bullet
+    uniqueID: 1221942995
+    locked: 0
+  - name: UI
+    uniqueID: 499429867
+    locked: 0

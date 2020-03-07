@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6170525714233873449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6170525714233873446}
+  - component: {fileID: 6170525714233873447}
+  m_Layer: 0
+  m_Name: Wave1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6170525714233873446
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6170525714233873449}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6170525714233873447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6170525714233873449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9122d8b3742d81b48b94dfed0634af29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waveDelay: 2
+  groups:
+  - {fileID: 8974936388825713260, guid: 4e1d094be20cb5c498c8d4f9a3f03146, type: 3}
+  - {fileID: 4379562563322631624, guid: 7034dc84f7f5fef4894030b51ae021f0, type: 3}
+  - {fileID: 5344630989610163628, guid: 99a5c4c69717a374889b4c1778a5b2e4, type: 3}
+  - {fileID: 4666356454468311072, guid: 73734191b21d29a41940933549976857, type: 3}
+  - {fileID: 6664380460857323584, guid: 278219b3f5d64db4ba287646a263d40b, type: 3}
+  - {fileID: 3983829049770961922, guid: 793185fe3328f1644af352a74ea7007d, type: 3}
+  - {fileID: 5832973407148171198, guid: 6d74df6480ab11b468f905889c0b0146, type: 3}
+  - {fileID: 8974936388825713260, guid: f8873ac458854744fb4929704f304999, type: 3}
+  - {fileID: 8974936388825713260, guid: 4e1d094be20cb5c498c8d4f9a3f03146, type: 3}
+  - {fileID: 4379562563322631624, guid: 7034dc84f7f5fef4894030b51ae021f0, type: 3}
+  - {fileID: 148275531483427712, guid: 430f123e5e837bb4e9f9453e36024721, type: 3}
+  - {fileID: 6664380460857323584, guid: 278219b3f5d64db4ba287646a263d40b, type: 3}
+  - {fileID: 4666356454468311072, guid: 73734191b21d29a41940933549976857, type: 3}
+  - {fileID: 5344630989610163628, guid: 99a5c4c69717a374889b4c1778a5b2e4, type: 3}
+  - {fileID: 4654470476751363196, guid: 89f240a65febde244ac157930713483b, type: 3}
+  - {fileID: 4242657018423012350, guid: ebc022a43f2f9f9458185f982b020760, type: 3}
+  - {fileID: 849539009018384028, guid: 74859d232db239846b05493e1303d2c5, type: 3}
+  - {fileID: 6393564820186843679, guid: b82cdc65a91f3424989443d3dab6d2e1, type: 3}
+  - {fileID: 9098007136289376306, guid: 7fe69b843daa1a947b4bb727fdfe0d7c, type: 3}
+  groupSpawnDelay:
+  - 1
+  - 2
+  - 2
+  - 2
+  - 0
+  - 4
+  - 2
+  - 3
+  - 3
+  - 0
+  - 2
+  - 2
+  - 2
+  - 4
+  - 12
+  - 12
+  - 18
+  - 5
+  - 0
+  checkpointPositions: 09000000
+  bossGroup: {fileID: 8212378816819138640, guid: f54ddab38e6c12f4da3f70657d76c082,
+    type: 3}
+  thingsToInstantiate: []
+  boundariesToInstantiate: {fileID: 2176105247410512231, guid: 76ea6b83288566f4b82cdf3acc9fce25,
+    type: 3}
+  nextParallaxGroup: {fileID: 2426830334914102646, guid: 4d855632aae441d438c222f4fef77013,
+    type: 3}
+  checkpointManager: {fileID: 0}

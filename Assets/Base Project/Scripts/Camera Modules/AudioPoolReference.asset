@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8776fa31c404b96ba17e6175cb83a70, type: 3}
+  m_Name: AudioPoolReference
+  m_EditorClassIdentifier: 
+  _minObjects: 15
+  audioDataArray:
+  - _name: PlayerShoot
+    _clips:
+    - {fileID: 8300000, guid: 9acb85b368f841c4cb50f34cc5c4bd5c, type: 3}
+    _volume:
+      min: 0.04954496
+      max: 0.10515676
+    _pitch:
+      min: 0.93933266
+      max: 1.1516683
+  - _name: Explosion
+    _clips:
+    - {fileID: 8300000, guid: 284314097bf2c7840a516de5233199ec, type: 3}
+    - {fileID: 8300000, guid: 81802a055526b8a46b4898b4b463d2c3, type: 3}
+    - {fileID: 8300000, guid: 6c503a6608f4cf74bbd1f7bdcd4065fb, type: 3}
+    - {fileID: 8300000, guid: 0c89357ae4b19ec46b86079ac51f77fa, type: 3}
+    _volume:
+      min: 0.19615771
+      max: 0.25176948
+    _pitch:
+      min: 0.8786653
+      max: 1.1516683
+  - _name: EnemyHit
+    _clips:
+    - {fileID: 8300000, guid: be684657700b62a408aecb4d2941896c, type: 3}
+    _volume:
+      min: 0.04954496
+      max: 0.10515678
+    _pitch:
+      min: 0.93933266
+      max: 1.0606673
+  - _name: Confirm
+    _clips:
+    - {fileID: 8300000, guid: aef27477bc985994cb8108817b3a61da, type: 3}
+    _volume:
+      min: 0.51466125
+      max: 0.51466125
+    _pitch:
+      min: 0.99797785
+      max: 0.99797785
+  - _name: Hit (No Damage)
+    _clips:
+    - {fileID: 8300000, guid: 4b93431c5aa881b42aeca06e4434e8fa, type: 3}
+    _volume:
+      min: 0.04929325
+      max: 0.11422834
+    _pitch:
+      min: 0.9005753
+      max: 1.0953804
+  - _name: GhostModuleActivate
+    _clips:
+    - {fileID: 8300000, guid: bada0c215d80aef44bcb60bf0fb9e7b1, type: 3}
+    _volume:
+      min: 0.24646212
+      max: 0.3113972
+    _pitch:
+      min: 0.9005753
+      max: 1.0953804
+  - _name: LowHealthAlert
+    _clips:
+    - {fileID: 8300000, guid: 980e435130f85fb47831f0ee9bca4931, type: 3}
+    _volume:
+      min: 0.30207384
+      max: 0.35184208
+    _pitch:
+      min: 0.9005753
+      max: 1.0953804
+  - _name: Pause
+    _clips:
+    - {fileID: 8300000, guid: a0f69be51b49b2541b95913bfa316865, type: 3}
+    _volume:
+      min: 0.29701823
+      max: 0.3619533
+    _pitch:
+      min: 1.02191
+      max: 1.02191
+  - _name: Pause
+    _clips:
+    - {fileID: 8300000, guid: 4b93431c5aa881b42aeca06e4434e8fa, type: 3}
+    _volume:
+      min: 0.29701823
+      max: 0.3619533
+    _pitch:
+      min: 1.02191
+      max: 1.02191
+  - _name: LightBullet
+    _clips:
+    - {fileID: 8300000, guid: e96156a6985ab5b46a99d1a023c0c0e9, type: 3}
+    - {fileID: 8300000, guid: 021f588058e541f499ed061ad0e93625, type: 3}
+    _volume:
+      min: 0.049293235
+      max: 0.114228345
+    _pitch:
+      min: 0.9005753
+      max: 1.1432446
+  - _name: HeavyBullet
+    _clips:
+    - {fileID: 8300000, guid: 74ddc40cae580a844aaba365d5d4b8c7, type: 3}
+    _volume:
+      min: 0.049293235
+      max: 0.114228345
+    _pitch:
+      min: 0.9005753
+      max: 1.1432446
+  - _name: BossWarning
+    _clips:
+    - {fileID: 8300000, guid: 9b9a2f8f4dcd4be4f824f352d41baf11, type: 3}
+    _volume:
+      min: 0.049293235
+      max: 0.114228345
+    _pitch:
+      min: 0.9005753
+      max: 1.1432446
+  - _name: Open
+    _clips:
+    - {fileID: 8300000, guid: 105a8539f0562404f905e545b699d68a, type: 3}
+    _volume:
+      min: 0.049293235
+      max: 0.114228345
+    _pitch:
+      min: 0.9005753
+      max: 1.1432446
+  - _name: GhostModuleOnline
+    _clips:
+    - {fileID: 8300000, guid: 00f2b2d676154a440b329b329dbb0315, type: 3}
+    _volume:
+      min: 0.049293235
+      max: 0.114228345
+    _pitch:
+      min: 0.9005753
+      max: 1.1432446
